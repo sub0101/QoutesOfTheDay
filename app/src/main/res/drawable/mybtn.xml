@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@android:drawable/ic_menu_share"
+    android:gravity="center"
+    android:height="48dp"
+    android:width="48dp" >
+
+
+</bitmap>
